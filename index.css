@@ -10,6 +10,7 @@
   background-color: hotpink;
   color: gray;
   text-align: left;
+  position: relative;
 }
 
 p {
