@@ -1,1 +1,3 @@
-Esto es un texto plano de prototipo
+Esto es un texto plano de prototipo 
+
+y esto es un ejemplo de lo mismo
