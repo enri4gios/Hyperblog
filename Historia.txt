@@ -6,3 +6,5 @@ Y este otro es otro texto adicional jaja
 Uno último pal bash
 
 Otro más para el contraste, ameo
+
+No comprendo por qué hay ciertas cosas que ocurren
